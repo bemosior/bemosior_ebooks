@@ -10,7 +10,8 @@
     "hubot-heroku-keepalive": "^1.0.2",
     "hubot-redis-brain": "0.0.3",
     "hubot-scripts": "^2.17.2",
-    "hubot-twitter-userstream": "git://github.com/bemosior/hubot-twitter-userstream.git#v0.0.3"
+    "hubot-twitter-userstream": "git://github.com/bemosior/hubot-twitter-userstream.git",
+    "hubot-pni": "git://github.com/bemosior/hubot-pni.git"
   },
   "engines": {
     "node": "0.10.x"
